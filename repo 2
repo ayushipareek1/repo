@@ -9,10 +9,8 @@
 .icon {
 	font-family: 'icomoon';
 	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
+	fon 
+	
 	line-height: 1;
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
